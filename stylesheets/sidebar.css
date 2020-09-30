@@ -10,12 +10,12 @@ nav {
 }
 nav:hover {
   opacity: 1;
-  transition: all .5s ease;
+  transition: all .1s ease;
 }
 nav p {
   margin: 0;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
 }
 nav a {
   text-decoration: none;
@@ -26,7 +26,7 @@ nav ul {
 }
 nav li {
   margin: 10px 0;
-  line-height: 20px;
+  line-height: 16px;
 }
 nav ul > ul {
   margin-left: 10px;
