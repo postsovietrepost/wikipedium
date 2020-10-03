@@ -45,6 +45,6 @@ article h2 + img { margin-top: 82px;
 }
 article h3 + img { margin-top: 81px;
 }
- article ol {
+ article ul {
    list-style-type: circle;
  }
